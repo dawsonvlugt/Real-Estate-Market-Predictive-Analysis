@@ -1,7 +1,8 @@
 # Real Estate Market Predictive Analysis
 
 ## Introduction
-This project aims to predict real estate prices using machine learning models. We analyze a dataset of 2,930 home sales to identify trends and factors influencing property values.
+This project aims to predict real estate prices using machine learning models. We analyze a dataset of 2,930 home sales to identify trends and factors influencing property values. Check out the [Exercise 9 Project Code](projectCode.py) for the complete source code.
+
 
 ## Objectives
 - To preprocess and analyze a large real estate dataset.
